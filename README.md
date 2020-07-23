@@ -29,4 +29,4 @@
 [![Twitter: HardikSavani19](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/HardikSavani19)
 [![Linkedin: savanihd](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/savanihd/)](https://www.linkedin.com/in/savanihd/)
 [![GitHub savanihd](https://img.shields.io/github/followers/savanihd?label=follow&style=social)](https://github.com/savanihd)
-[![website](https://img.shields.io/badge/PortfolioWebsite-hardik.live-2648ff?style=flat-square&logo=google-chrome)](https://www.itsolutionstuff.com)
+[![website](https://img.shields.io/badge/Blog-itsolutionstuff.com-2648ff?style=flat-square&logo=google-chrome)](https://www.itsolutionstuff.com)
