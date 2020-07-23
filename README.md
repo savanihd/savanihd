@@ -18,7 +18,8 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on [Aatman Infotech](http://aatmaninfotech.com)
+- 🔭 I’m currently work at [Aatman Infotech](http://aatmaninfotech.com)
+- 🔭 I’m currently working on [Laravel](http://laravel.com)
 - 🌱 I’m currently learning [Angular](https://angular.io)
 - 👯 I’m looking to collaborate on [Blog](https://www.itsolutionstuff.com)
 - 💬 Ask me about Laravel or any tech related stuff.
