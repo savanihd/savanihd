@@ -18,8 +18,6 @@
 <br/>
 <br/>
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on [Aatman Infotech](http://aatmaninfotech.com)
 - 🌱 I’m currently learning [Angular](https://angular.io)
 - 👯 I’m looking to collaborate on [Blog](https://www.itsolutionstuff.com)
