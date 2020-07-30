@@ -25,7 +25,7 @@
 - 💬 Ask me about Laravel or any tech related stuff.
 - 📫 How to reach me: [Twitter - @HardikSavani19](https://twitter.com/HardikSavani19)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
+- ⚡ Fun fact: I spend almost 12 hours to developing to 6 Days of Week.
 
 [![Twitter: HardikSavani19](https://img.shields.io/twitter/follow/HardikSavani19?style=social)](https://twitter.com/HardikSavani19)
 [![Linkedin: savanihd](https://img.shields.io/badge/-savanihd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/savanihd/)](https://www.linkedin.com/in/savanihd/)
