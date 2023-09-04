@@ -18,7 +18,7 @@
 <br/>
 <br/>
 
-- 🔭 Owner of [Aatman Infotech](http://aatmaninfotech.com)
+- 🔭 Owner of [ItSolutionStuff.com](https://www.itsolutionstuff.com)
 - 🔭 I’m currently working on [Laravel](http://laravel.com)
 - 🌱 I’m currently learning [Angular](https://angular.io)
 - 👯 I’m looking to collaborate on [Blog](https://www.itsolutionstuff.com)
