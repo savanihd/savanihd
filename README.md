@@ -1,5 +1,8 @@
 ## I'm [Hardik Savani!](https://www.itsolutionstuff.com) 👋
 
+<a href="https://www.youtube.com/@HardikSavani19">
+  <img align="left" alt="Hardik's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
 <a href="https://twitter.com/HardikSavani19">
   <img align="left" alt="Hardik's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -11,9 +14,6 @@
 </a>
 <a href="https://www.facebook.com/hardik.savani.12">
   <img align="left" alt="Hardik's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UCTNdgwQ_uZ54nJWkkxGM3sA">
-  <img align="left" alt="Hardik's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 <br/>
 <br/>
