@@ -1,6 +1,6 @@
 ## I'm [Hardik Savani!](https://www.itsolutionstuff.com) 👋
 
-<a href="https://www.youtube.com/@HardikSavani19">
+<a href="https://www.youtube.com/@savanihd">
   <img align="left" alt="Hardik's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 <a href="https://twitter.com/HardikSavani19">
