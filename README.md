@@ -1,5 +1,10 @@
 ## I'm [Hardik Savani!](https://www.itsolutionstuff.com) 👋
 
+🎥 **Subscribe to my YouTube Channel for Laravel & Web Development Tips!**  
+<a href="https://www.youtube.com/@savanihd" target="_blank">
+  <img src="https://img.shields.io/badge/Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Subscribe"/>
+</a>
+
 <a href="https://www.youtube.com/@savanihd">
   <img align="left" alt="Hardik's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
